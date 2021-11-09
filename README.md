@@ -7,3 +7,5 @@ management GUI. The password to access the management GUI can then be easily fuz
 gain access to the management GUI. The default username used to access the GUI is “root”.
 Upon further investigation, it was found that the login screen will accept any username
 supplied, so long as it is paired with the correct password.
+
+Reference pdf with my writeup. 
