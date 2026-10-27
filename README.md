@@ -9,3 +9,7 @@ Upon further investigation, it was found that the login screen will accept any u
 supplied, so long as it is paired with the correct password.
 
 I have attached a pdf file with my writeup as a proof of concept.  
+
+## License
+
+MIT, see [LICENSE](LICENSE).
